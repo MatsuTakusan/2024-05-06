@@ -1,0 +1,42 @@
+commit 1786cb91ddd0c759c22c734e287fd0f35723459a
+Merge: 9bbfc5c 067dec6
+Author: Takuma Matsunaga <147134447+MatsuTakusan@users.noreply.github.com>
+Date:   Mon May 6 15:59:12 2024 +0900
+
+    Merge branch 'main' of https://github.com/MatsuTakusan/2024-05-06
+
+commit 9bbfc5c5ea229cce52655a595771c294492b66af
+Author: Takuma Matsunaga <147134447+MatsuTakusan@users.noreply.github.com>
+Date:   Mon May 6 15:54:37 2024 +0900
+
+    ピースの色を変更
+    
+    ブルーをスカイブルーに変更
+
+commit 067dec65eb0eadf2e911dbbed9d564f93756cce3
+Author: MatsuTakusan <147134447+MatsuTakusan@users.noreply.github.com>
+Date:   Mon May 6 15:52:35 2024 +0900
+
+    Update tetris.js
+
+commit 322844c12dd04e77406158c3c8effb332fef61c2
+Author: Takuma Matsunaga <147134447+MatsuTakusan@users.noreply.github.com>
+Date:   Mon May 6 15:46:01 2024 +0900
+
+    ピースが落ちてくる速度を変更
+    
+    少し遅く変更
+
+commit def5e2cbc7f28ff251a58251545fb0ce639d4793
+Author: Takuma Matsunaga <147134447+MatsuTakusan@users.noreply.github.com>
+Date:   Mon May 6 15:38:25 2024 +0900
+
+    ピースの色を変更
+    
+    深緑をライム色に変更
+
+commit 48e583a7af3e76cc3f951a2df18f3fd6e845a7fa
+Author: Takuma Matsunaga <147134447+MatsuTakusan@users.noreply.github.com>
+Date:   Mon May 6 15:23:20 2024 +0900
+
+    canvas-tetrisのソースコードをインポート
